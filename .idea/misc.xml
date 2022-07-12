@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/custom_preview.xml" value="0.20760050251256282" />
+        <entry key="..\:/BAI TAP LAP TRINH/BaiTapLapTrinh/TruyenCuoiK12/app/src/main/res/layout/actionbar_home.xml" value="0.20974358974358975" />
+        <entry key="..\:/BAI TAP LAP TRINH/BaiTapLapTrinh/TruyenCuoiK12/app/src/main/res/layout/item_detail_story.xml" value="0.1" />
+        <entry key="..\:/BAI TAP LAP TRINH/BaiTapLapTrinh/TruyenCuoiK12/app/src/main/res/layout/m000_splash_act.xml" value="0.1" />
+        <entry key="..\:/BAI TAP LAP TRINH/BaiTapLapTrinh/TruyenCuoiK12/app/src/main/res/layout/m001_main_act.xml" value="0.1" />
+        <entry key="..\:/Users/999/AndroidStudioProjects/TruyenCuoiK12/app/src/main/res/drawable/ic_menu.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/999/AndroidStudioProjects/TruyenCuoiK12/app/src/main/res/drawable/ic_menu_level.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/999/AndroidStudioProjects/TruyenCuoiK12/app/src/main/res/layout/actionbar_home.xml" value="0.5" />
+        <entry key="..\:/Users/999/AndroidStudioProjects/TruyenCuoiK12/app/src/main/res/layout/item_detail_story.xml" value="0.33" />
+        <entry key="..\:/Users/999/AndroidStudioProjects/TruyenCuoiK12/app/src/main/res/layout/item_menu.xml" value="0.31673582295988933" />
+        <entry key="..\:/Users/999/AndroidStudioProjects/TruyenCuoiK12/app/src/main/res/layout/item_story.xml" value="0.1" />
+        <entry key="..\:/Users/999/AndroidStudioProjects/TruyenCuoiK12/app/src/main/res/layout/item_topic.xml" value="0.3416666666666667" />
+        <entry key="..\:/Users/999/AndroidStudioProjects/TruyenCuoiK12/app/src/main/res/layout/m000_splash_act.xml" value="0.33" />
+        <entry key="..\:/Users/999/AndroidStudioProjects/TruyenCuoiK12/app/src/main/res/layout/m001_main_act.xml" value="0.5" />
+        <entry key="..\:/Users/999/AndroidStudioProjects/TruyenCuoiK12/app/src/main/res/layout/m002_detail_story.xml" value="0.3416666666666667" />
+        <entry key="..\:/Users/999/AndroidStudioProjects/TruyenCuoiK12/app/src/main/res/layout/m002_main_act.xml" value="0.3416666666666667" />
+        <entry key="app/src/main/res/layout/actionbar_home.xml" value="0.3182291666666667" />
+        <entry key="app/src/main/res/layout/m001_main_act.xml" value="0.3182291666666667" />
+        <entry key="app/src/main/res/layout/m002_detail_story.xml" value="0.3182291666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
